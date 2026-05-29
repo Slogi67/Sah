@@ -1,0 +1,7 @@
+C:\Users\Ucenik-SM-05\Desktop\rad\Sah\Sah\bin\Debug\Sah.exe
+C:\Users\Ucenik-SM-05\Desktop\rad\Sah\Sah\bin\Debug\Sah.pdb
+C:\Users\Ucenik-SM-05\Desktop\rad\Sah\Sah\obj\x86\Debug\Sah.Form1.resources
+C:\Users\Ucenik-SM-05\Desktop\rad\Sah\Sah\obj\x86\Debug\Sah.Properties.Resources.resources
+C:\Users\Ucenik-SM-05\Desktop\rad\Sah\Sah\obj\x86\Debug\Sah.csproj.GenerateResource.Cache
+C:\Users\Ucenik-SM-05\Desktop\rad\Sah\Sah\obj\x86\Debug\Sah.exe
+C:\Users\Ucenik-SM-05\Desktop\rad\Sah\Sah\obj\x86\Debug\Sah.pdb
