@@ -348,7 +348,7 @@ namespace sahhh
 
                     if (kraljUgrozen)
                     {
-                        MessageBox.Show("Moraš da odbraniš kralja, brate! Potez nije legalan.");
+                        MessageBox.Show("Moraš da odbraniš kralja! Potez nije legalan.");
                         ResetujSelekciju();
                         return;
                     }
